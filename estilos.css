@@ -1,5 +1,9 @@
 p.azul{ 
     color: blue;
-
-
+    font-family: Arial;
+    font-size: 50px;
 }
+p.rojo{ color: red;
+    font-family: Arial;
+    font-size: 50px;
+  }
